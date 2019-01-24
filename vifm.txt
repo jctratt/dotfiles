@@ -125,7 +125,7 @@ m		set mark / set bookmark
 
 #########################################################################
     vifm help cheatsheet text.txt
-    Copyright (C) 2019  Jeff Tratt
+    Copyright (C) 2019  Jeff Tratt  jtratt@gmail.com
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
