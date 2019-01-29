@@ -1,5 +1,5 @@
 #########################################################################
-vifm help cheatsheet text.txt
+vifm help cheat sheet text.txt
 All text version of the cheatsheet on https://vifm.info/cheatsheets.shtml
 for Vifm v0.10 (November 11, 2018)
 #########################################################################
