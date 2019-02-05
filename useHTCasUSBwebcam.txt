@@ -1,0 +1,11 @@
+1) git clone https://github.com/umlaeute/v4l2loopback.git
+2) https://github.com/bluezio/ipwebcam-gst/blob/master/prepare-videochat.sh
+3) ./prepare_videochat.sh (stays running in terminal)
+4) on HTC start IP Webcam
+5) on HTC turn on wifi
+6) Firefox: 192.168.2.2:8080 (HTC IP)
+7) Change orientation to preferred in browser
+8) on HTC turn off wifi
+9) close Firefox HTC tab
+A) mpv av://v4l2:/dev/video1 & (where video1 is the HTC setup by ./prepare-videochat.sh
+B) Enjoy!
