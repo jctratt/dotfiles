@@ -90,6 +90,7 @@ $		last column
 =		local filter
 <tab>		switch pane
 e		explore file (view/preview)
+o       open with dialog menu
 t		toggle select
 Y		yank file(s)
 u		undo
